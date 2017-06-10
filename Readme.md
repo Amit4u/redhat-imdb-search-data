@@ -1,13 +1,13 @@
-Step 1: Get imdb data api key from omdb.
+Step 1: Get imdb api key from omdb.
 
-Step 2: Created API Rest service.
+Step 2: Create API rest-service.
 
 Step 3: Run npm install.
 
 Step 4: Run npm run start-dev.
 
-Step 5: UI inhancement.
+Step 5: UI enhancement.
 
-Step 6: Created git public folder
+Step 6: Create git public folder
 
-Step 7: push data on git hub.
+Step 7: Push data on git hub.
