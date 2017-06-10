@@ -13,7 +13,7 @@
     "adventure",
     "rest"
   ],
-  "author": "Mukesh",
+  "author": "AMIT SRIVASTAVA",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3",
